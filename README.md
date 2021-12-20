@@ -20,8 +20,8 @@ I'm here because I have a goal in my mind. I decided to change my life! Do you t
 
 
 <div>
-<img heigth="100em" src="https://github-readme-stats.vercel.app/api?username=Danilo-Silverio&theme=vue&show_icons=true">
-  <img heigth="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danilo-Silverio&layout=compact&langs_count-16&theme=vue"/>
+<img heigth="130em"src="https://github-readme-stats.vercel.app/api?username=Danilo-Silverio&theme=vue&show_icons=true">
+  <img heigth="100em" style="display: inline_block" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danilo-Silverio&layout=compact&langs_count-16&theme=vue"/>
 </div>
 
 <div style="display: inline_block"><br>
