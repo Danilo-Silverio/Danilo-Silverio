@@ -21,7 +21,9 @@ I'm here because I have a goal in my mind. I decided to change my life! Do you t
 
 <div>
 <img heigth="130em"src="https://github-readme-stats.vercel.app/api?username=Danilo-Silverio&theme=vue-dark&show_icons=true">
-  <img heigth="100em" style="display: inline_block" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danilo-Silverio&layout=compact&langs_count-16&theme=vue-dark"/>
+</div>
+<div>
+  <img heigth="10em" style="display: inline_block" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danilo-Silverio&layout=compact&langs_count-16&theme=vue-dark"/>
 </div>
 
 <div style="display: inline_block"><br>
