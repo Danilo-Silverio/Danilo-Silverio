@@ -1,17 +1,19 @@
-### <h1> Hi there!!</h1>
-My name's Danilo Silvério and I FullStack Web Developer Student.
+### <h1> Hi there!</h1>
+My name's Danilo Silvério and I'm FullStack Web Developer Student.
 ##
 
 ### <h1> About me</h1>
 <div text align="justify">
-I'm here because I have a goal in my mind. I decided to change my life! Do you think people deserve to work with something that for the most part makes you happy and fulfilled? Well... I do. I am an accounting student in the last year of the course and my professional experiences brought me more frustration than prospects for a better future. I've always believed that we should pursue our success, feel fulfilled and proud of your path in life, that's why I made the decision to come here. I decided to go after of my dreams and achieve my goals being an expert developer in Front End/UI/UX. I'm just at the beginning of something much bigger. Thanks to Labenu for giving me the opportunity to take my first steps towards my dream.
+I am part of the Labenu FullStack Web full programming course. Throughout my training as a Labenu student I work on the development of several individual and team poetic projects, using React.js, HTML, Javascript and CSS. I started studying programming in November 2021 with the aim of making a change in my life, I am passionate about technology and it was in the Front End area that I decided to seek my own success.
+I am finishing my degree in Accounting Sciences and my trajectory in the accounting area worked mainly helping the accounting team in the day-to-day accounting/tax activities, accounting entries, asset movement and issuance of depreciation reports. I decided to transition my career to the development area
+to work with what I've always dreamed of, becoming a Front End developer.
 </div>
 
 
 
 ##
 - 👨‍💻 <b>I’m currently studying:</b> FullStack Web Development at Labenu.
-- 📗 <b>I’m currently learning:</b> Javascript / HTML / CSS.
+- 📗 <b>I’m currently learning:</b> Javascript / HTML / CSS / React.
 - 💼 <b>My career goals:</b> Become an expert developer on Front End/UI/UX.
 - ⚡ <b>Fun fact</b>: My favorite book is Harry Potter and the Half-Blood Prince 🐍.
 
@@ -30,6 +32,7 @@ I'm here because I have a goal in my mind. I decided to change my life! Do you t
 <img align="center" alt="Danilo-JS" height="58" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
  <img align="center" alt="Danilo-HTML" height="65" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" /> 
   <img align="center" alt="Danilo-CSS" height="65" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+   <img align="center" alt="Danilo-React" height="65" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 </div>
 
   ##
